@@ -8,12 +8,7 @@ const defaultIdeas = [
   {
     idea: "Give me code snippet",
     moreContext:
-      "Give me a code snippet to create a database schema for a social media app",
-  },
-  { idea: "Tell me a joke", moreContext: "Tell me a joke" },
-  {
-    idea: "Design redux store",
-    moreContext: " Design a redux store for a social media app",
+      "Give me a code snippet to create a frontend ui for a POST API",
   },
 ];
 
