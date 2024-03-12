@@ -28,7 +28,7 @@ ChatGPT clone with added features
 1. Clone the repository
 
 ```
-git clone <>
+git clone https://github.com/babu-izhan-5001312/chidori.git
 ```
 
 2. Install client dependencies
