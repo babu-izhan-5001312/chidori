@@ -66,12 +66,6 @@ function App() {
           )}
         >
           <div className="max-w-2xl md:max-w-[calc(100% - 260px)] mx-auto">
-            {!isChatsVisible && (
-              <>
-                <DefaultIdeas />
-              </>
-            )}
-
             <div className="dark:bg-inherit">
               <UserQuery />
               <footer className="info text-sm py-2 text-gray-700 dark:text-white text-center">
