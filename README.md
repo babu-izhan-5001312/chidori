@@ -1,6 +1,6 @@
 # AI UI Maker
 
-ChatGPT clone with added features
+Frontend UI Maker for basic CRUD apis.
 
 ## Features
 
@@ -34,7 +34,6 @@ git clone https://github.com/babu-izhan-5001312/chidori.git
 2. Install client dependencies
 
 ```
-cd ChatGPT
 npm install
 ```
 
